@@ -4,7 +4,8 @@ Invasive ductal carcinoma (IDC) is the most common form of breast cancer, with a
 
 #### Result :
 <img src="./Tissue_result.png"><br>
-<img src-"./Binary_result.png">
+
+<img height = 400 width = 500 src="./Binary_result.png">
 
 #### Dataset :  https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
