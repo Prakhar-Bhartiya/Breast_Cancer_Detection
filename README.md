@@ -3,7 +3,8 @@
 Invasive ductal carcinoma (IDC) is the most common form of breast cancer, with a 99% survival rate if detected early. The current detection method requires an expert pathologist to examine tissue slices. We automated the process by developing a 95% accurate CNN model for breast cancer classification and localization.
 
 #### Result :
-
+<img src="./Tissue_result.png"><br>
+<img src-"./Binary_result.png">
 
 #### Dataset :  https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
