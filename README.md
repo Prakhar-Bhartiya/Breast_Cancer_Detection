@@ -7,7 +7,6 @@ Invasive ductal carcinoma (IDC) is the most common form of breast cancer, with a
 
 <img height = 400 width = 500 src="./Binary_result.png">
 
-### Dataset :  https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
-
-Dataset Description : The original dataset consisted of 162 whole mount slide images of Breast Cancer (BCa) specimens scanned at 40x. From that, 277,524 patches of size 50 x 50 were extracted (198,738 IDC negative and 78,786 IDC positive).
+## [Dataset](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images) :  
+Dataset contain 162 whole mount slide images of Breast Cancer (BCa) specimens scanned at 40x. From that, 277,524 patches of size 50 x 50 were extracted (198,738 IDC negative and 78,786 IDC positive).
 
